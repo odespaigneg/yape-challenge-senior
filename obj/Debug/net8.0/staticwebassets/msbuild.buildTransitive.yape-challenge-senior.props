@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\yape-challenge-senior.props" />
+</Project>

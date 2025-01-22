@@ -1,0 +1,70 @@
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/appsettings.Development.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/appsettings.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/yape-challenge-senior
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/yape-challenge-senior.deps.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/yape-challenge-senior.runtimeconfig.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/yape-challenge-senior.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/yape-challenge-senior.pdb
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.csproj.AssemblyReference.cache
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.AssemblyInfoInputs.cache
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.AssemblyInfo.cs
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.csproj.CoreCompileInputs.cache
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.MvcApplicationPartsAssemblyInfo.cs
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.MvcApplicationPartsAssemblyInfo.cache
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets.build.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets.development.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets/msbuild.yape-challenge-senior.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets/msbuild.build.yape-challenge-senior.props
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.yape-challenge-senior.props
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.yape-challenge-senior.props
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/scopedcss/bundle/yape-challenge-senior.styles.css
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-cha.8916CC04.Up2Date
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/refint/yape-challenge-senior.dll
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.pdb
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/yape-challenge-senior.genruntimeconfig.cache
+/Users/t51328/DotNetRepositories/yape-challenges/yape-challenge-senior/obj/Debug/net8.0/ref/yape-challenge-senior.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\appsettings.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\yape-challenge-senior.staticwebassets.endpoints.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\yape-challenge-senior.exe
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\yape-challenge-senior.deps.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\yape-challenge-senior.runtimeconfig.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\yape-challenge-senior.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\yape-challenge-senior.pdb
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.csproj.AssemblyReference.cache
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.AssemblyInfoInputs.cache
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.AssemblyInfo.cs
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.csproj.CoreCompileInputs.cache
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\scopedcss\bundle\yape-challenge-senior.styles.css
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets\msbuild.yape-challenge-senior.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets\msbuild.yape-challenge-senior.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets\msbuild.build.yape-challenge-senior.props
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.yape-challenge-senior.props
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.yape-challenge-senior.props
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-cha.8916CC04.Up2Date
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\refint\yape-challenge-senior.dll
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.pdb
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\yape-challenge-senior.genruntimeconfig.cache
+C:\Projects\Test-Yape\Challenge BE-SR\yape-challenge-senior\obj\Debug\net8.0\ref\yape-challenge-senior.dll

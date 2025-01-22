@@ -1,0 +1,6 @@
+@yape_challenge_senior_HostAddress = http://localhost:5279
+
+GET {{yape_challenge_senior_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

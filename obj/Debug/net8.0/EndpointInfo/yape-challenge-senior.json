@@ -1,0 +1,86 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "yape-challenge-senior",
+    "version": "1.0"
+  },
+  "paths": {
+    "/notify": {
+      "post": {
+        "tags": [
+          "yape-challenge-senior"
+        ],
+        "operationId": "NotifyService",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Notification"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Notification": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "readOnly": true
+          },
+          "sender": {
+            "$ref": "#/components/schemas/NotificationParticipant"
+          },
+          "recipient": {
+            "$ref": "#/components/schemas/NotificationParticipant"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "body": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "$ref": "#/components/schemas/NotificationType"
+          }
+        },
+        "additionalProperties": false
+      },
+      "NotificationParticipant": {
+        "type": "object",
+        "properties": {
+          "resource": {
+            "type": "string",
+            "nullable": true
+          },
+          "fullname": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "NotificationType": {
+        "enum": [
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}
