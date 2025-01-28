@@ -47,7 +47,7 @@ namespace yape_challenge_senior.Tests
 
             var notification = new Notification
             {
-                Type = NotificationType.CALL // No notifier for CALL type
+                Type = NotificationType.CALL
             };
 
             // Act & Assert
