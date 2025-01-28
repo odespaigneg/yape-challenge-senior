@@ -31,19 +31,36 @@
   },
   "components": {
     "schemas": {
+      "Entity": {
+        "type": "object",
+        "properties": {
+          "resource": {
+            "type": "string",
+            "nullable": true
+          },
+          "fullname": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Notification": {
         "type": "object",
         "properties": {
-          "id": {
+          "resource": {
             "type": "string",
-            "format": "uuid",
-            "readOnly": true
+            "nullable": true
+          },
+          "fullname": {
+            "type": "string",
+            "nullable": true
           },
           "sender": {
-            "$ref": "#/components/schemas/NotificationParticipant"
+            "$ref": "#/components/schemas/Entity"
           },
           "recipient": {
-            "$ref": "#/components/schemas/NotificationParticipant"
+            "$ref": "#/components/schemas/Entity"
           },
           "title": {
             "type": "string",
@@ -59,24 +76,12 @@
         },
         "additionalProperties": false
       },
-      "NotificationParticipant": {
-        "type": "object",
-        "properties": {
-          "resource": {
-            "type": "string",
-            "nullable": true
-          },
-          "fullname": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "NotificationType": {
         "enum": [
+          0,
           1,
-          2
+          2,
+          3
         ],
         "type": "integer",
         "format": "int32"

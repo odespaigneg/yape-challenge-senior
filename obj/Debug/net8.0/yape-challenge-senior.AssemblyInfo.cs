@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yape-challenge-senior")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce422204f213258d248c4906ab87dbb75eb9de9")]
 [assembly: System.Reflection.AssemblyProductAttribute("yape-challenge-senior")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yape-challenge-senior")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

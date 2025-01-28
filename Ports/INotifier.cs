@@ -1,6 +1,6 @@
 ﻿using yape_challenge_senior.Models;
 
-namespace yape_challenge_senior.Interfaces
+namespace yape_challenge_senior.Ports
 {
     public interface INotifier
     {

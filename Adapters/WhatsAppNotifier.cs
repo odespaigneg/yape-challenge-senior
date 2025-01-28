@@ -1,17 +1,17 @@
-﻿using yape_challenge_senior.Interfaces;
-using yape_challenge_senior.Models;
+﻿using yape_challenge_senior.Models;
+using yape_challenge_senior.Ports;
 
-namespace yape_challenge_senior.Notifier
+namespace yape_challenge_senior.Adapters
 {
     public class WhatsAppNotifier(IWhatsAppVendor vendor) : INotifier
     {
-        private readonly IWhatsAppVendor vendor = vendor;
+        private readonly IWhatsAppVendor _vendor = vendor;
 
         public bool CanHandle(NotificationType type) => type == NotificationType.EMAIL;
 
         public void Notify(Notification notification)
         {
-            vendor.SendWhatsApp(notification);
+            _vendor.SendWhatsApp(notification);
         }
     }
 }

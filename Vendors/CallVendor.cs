@@ -1,5 +1,5 @@
-﻿using yape_challenge_senior.Interfaces;
-using yape_challenge_senior.Models;
+﻿using yape_challenge_senior.Models;
+using yape_challenge_senior.Ports;
 
 namespace yape_challenge_senior.Vendors
 {

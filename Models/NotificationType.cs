@@ -1,11 +1,10 @@
-using System.Text.Json.Serialization;
-
-namespace yape_challenge_senior.Models;
-
-public enum NotificationType
+﻿namespace yape_challenge_senior.Models
 {
-    SMS,
-    EMAIL,
-    WHATSAPP,
-    CALL
+    public enum NotificationType
+    {
+        SMS,
+        EMAIL,
+        WHATSAPP,
+        CALL
+    }
 }

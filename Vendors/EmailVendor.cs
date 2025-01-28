@@ -1,20 +1,13 @@
-using yape_challenge_senior.Interfaces;
-using yape_challenge_senior.Models;
+﻿using yape_challenge_senior.Models;
+using yape_challenge_senior.Ports;
 
-namespace yape_challenge_senior.Vendors;
-
-public class EmailVendor : IEmailVendor
+namespace yape_challenge_senior.Vendors
 {
-    public void SendEmail(Notification notification)
+    public class EmailVendor : IEmailVendor
     {
-        Console.WriteLine(String.Format(
-            "Sending Email from {0} - {1} to {2} - {3} with title: {4} and body {5}", 
-            notification.Sender.Resource, 
-            notification.Sender.Fullname, 
-            notification.Recipient.Resource, 
-            notification.Recipient.Fullname, 
-            notification.Title, 
-            notification.Body
-        ));    
+        public void SendEmail(Notification notification)
+        {
+            Console.WriteLine($"Sending Email from {notification.Sender.Resource} to {notification.Recipient.Fullname} with title: {notification.Title} and body: {notification.Body}");
+        }
     }
 }

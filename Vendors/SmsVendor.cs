@@ -1,20 +1,13 @@
-using yape_challenge_senior.Interfaces;
-using yape_challenge_senior.Models;
+﻿using yape_challenge_senior.Models;
+using yape_challenge_senior.Ports;
 
-namespace yape_challenge_senior.Vendors;
-
-public class SmsVendor : ISmsVendor
+namespace yape_challenge_senior.Vendors
 {
-    public void SendSms(Notification notification)
+    public class SmsVendor : ISmsVendor
     {
-        Console.WriteLine(String.Format(
-            "Sending SMS from {0} - {1} to {2} - {3} with title: {4} and body {5}", 
-            notification.Sender.Resource, 
-            notification.Sender.Fullname, 
-            notification.Recipient.Resource, 
-            notification.Recipient.Fullname, 
-            notification.Title, 
-            notification.Body
-        ));
+        public void SendSms(Notification notification)
+        {
+            Console.WriteLine($"Sending SMS from {notification.Sender.Resource} - {notification.Sender.Fullname} to {notification.Recipient.Resource} - {notification.Recipient.Fullname} with title: {notification.Title} and body {notification.Body}");
+        }
     }
 }
